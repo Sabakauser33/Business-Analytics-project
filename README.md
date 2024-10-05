@@ -1,1 +1,1 @@
-# Business project
+# Business Analytics Project
