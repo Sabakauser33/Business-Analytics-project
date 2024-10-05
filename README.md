@@ -1,1 +1,1 @@
-# Ybi-Project
+# Business project
